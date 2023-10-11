@@ -1,8 +1,11 @@
 # RaspberryPi Smart Home Control
 
 <div align="center">
+  
   <img src="https://github.com/Quan20021511/Sel-Navigating-Robot/assets/129273695/aba7195d-7a1e-4769-8541-2ed090ac8a89">
-  <img src="https://github.com/Quan20021511/Sel-Navigating-Robot/assets/129273695/401e1173-4727-47ce-b13a-35fe03622387">
+  
+  <img src="https://github.com/Quan20021511/Sel-Navigating-Robot/assets/129273695/e790de4e-34c7-4681-9911-f4509945d6c1">
+  
 </div>
 
 Welcome to the **RaspberryPi Smart Home Control** repository! This project enables you to control various hardware components using a Raspberry Pi. You can interact with devices such as LEDs, motors, a buzzer, and an LCD display through MQTT (Message Queuing Telemetry Transport), allowing for remote control and automation in your smart home.
@@ -31,8 +34,6 @@ To get started with this project, follow these steps:
 
 4. **Configure MQTT**: Configure your MQTT broker to allow communication with your Raspberry Pi. You can use a cloud-based broker or set up your own.
 
-5. **Run the Code**: Execute the Python script (`smart_home_control.py`) to start controlling your devices.
-
 ## Usage
 
 - Send MQTT messages to control the devices. For example, sending "led_ON" turns on the LED.
@@ -44,10 +45,6 @@ To get started with this project, follow these steps:
 ## Contributing
 
 If you're interested in contributing to this project, feel free to submit pull requests or open issues. We welcome improvements, bug fixes, and additional features.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
